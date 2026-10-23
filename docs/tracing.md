@@ -253,3 +253,4 @@ The integration maintainers provide support for their integrations. Inclusion in
 -   [Tuning Engines](https://github.com/cerebrixos-org/tuning-engines-cli/tree/main/packages/tuning-agents#openai-agents-sdk)
 -   [Laminar](https://laminar.sh/docs/tracing/integrations/openai-agents-sdk)
 -   [Noveum](https://github.com/Noveum/noveum-trace/blob/main/docs/OPENAI_AGENTS_INTEGRATION.md)
+-   [Agent Ping](https://agentping.io/docs/frameworks/openai-agents)
